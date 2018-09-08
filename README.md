@@ -9,7 +9,7 @@ I tried a bunch of Runners and right now the best one the i was able to get was 
 
 From there you just go for lutris, right click on SC2 icon> Configure > Runners Option and change the Wine Version for the name of the folder the you put all those files in which was in my case Proton3.7.
 
-DXVK probably will be enable but thats for the Bnet launcher.
+DXVK probably will be enabled but thats for the Bnet launcher.
 
 My PC settings are: 
 i7 6700k 4.4GHZ
